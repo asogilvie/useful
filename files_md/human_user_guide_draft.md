@@ -19,7 +19,7 @@ Don’t take it/me too seriously. Maybe my day doesn’t feel complete unless I 
 
 ### What qualities do you value in people who work with you?
 
-You are perfect exactly as you are and I have much to learn from you. Can't wait!
+You are perfect exactly as you are, and I have much to learn from you.
 
 ## Time
 
