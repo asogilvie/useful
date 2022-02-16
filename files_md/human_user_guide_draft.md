@@ -1,6 +1,6 @@
 # How to work with @asogilvie _[A. Stephanie Ogilvie]_
 
-[(Table of contents up top!)](https://github.blog/changelog/2021-04-13-table-of-contents-support-in-markdown-files)
+[Table of contents in the top-left menu next to the line count!](https://github.blog/changelog/2021-04-13-table-of-contents-support-in-markdown-files)[^1]
 
 ## Values 
 
@@ -38,10 +38,10 @@ You are perfect exactly as you are and I have much to learn from you. Can't wait
 ### Rituals
 
 The organization of the below depends on where my sleep cycle lands. En bref, everyday:
-- I work[^1]
-- I hobby[^2]
-- I do a physical thing[^3]
-- I read books/articles[^4]
+- I work[^2]
+- I hobby[^3]
+- I do a physical thing[^4]
+- I read books/articles[^5]
 - I meditate
 
 ## Communication (is awesome!)
@@ -94,7 +94,6 @@ Data stuff, various:
 
 ### In writing this I discovered:
 - I don’t actually know all that much about myself, but it’s been a fun way to get to know teammates.
-- That markdown has more to offer than I knew about.
 
 ### Here’s a bunch of quizzes I did along the way:
 
@@ -104,7 +103,8 @@ Data stuff, various:
 - [Hexaco](https://github.com/asogilvie/useful/blob/main/imgs/hexaco.png)
 
 ---
-[^1]: Less on weekends, but I can get anxious if I don’t at least have a finger on the pulse.
-[^2]: I take time to engage with personal projects that help me grow in areas I would not otherwise pursue. This varies based on where I'm at as a human - could be artistic, culinary, technical, et cetera. I might not be great at any of it any time soon, but the joy and humility are in the attempt.
-[^3]: E.g. yoga, lifting, a long walk, et cetera.
-[^4]: Tell me about your most recent read or favourite book! Always down to talk books!
+[^1]: I didn't know markdown had so much to offer!
+[^2]: Less on weekends, but I can get anxious if I don’t at least have a finger on the pulse.
+[^3]: I take time to engage with personal projects that help me grow in areas I would not otherwise pursue. This varies based on where I'm at as a human - could be artistic, culinary, technical, et cetera. I might not be great at any of it any time soon, but the joy and humility are in the attempt.
+[^4]: E.g. yoga, lifting, a long walk, et cetera.
+[^5]: Tell me about your most recent read or favourite book! Always down to talk books!
