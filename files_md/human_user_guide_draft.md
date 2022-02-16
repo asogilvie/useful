@@ -98,10 +98,10 @@ Data stuff, various:
 
 ### Here’s a bunch of quizzes I did along the way:
 
-[Human Values](https://github.com/asogilvie/useful/blob/main/imgs/human_values_test.png)
-[DISC](https://github.com/asogilvie/useful/blob/main/imgs/disc.png)
-[MBTI](https://github.com/asogilvie/useful/blob/main/imgs/mbti.png)
-[Hexaco](https://github.com/asogilvie/useful/blob/main/imgs/hexaco.png)
+- [Human Values](https://github.com/asogilvie/useful/blob/main/imgs/human_values_test.png)
+- [DISC](https://github.com/asogilvie/useful/blob/main/imgs/disc.png)
+- [MBTI](https://github.com/asogilvie/useful/blob/main/imgs/mbti.png)
+- [Hexaco](https://github.com/asogilvie/useful/blob/main/imgs/hexaco.png)
 
 ---
 [^1]: Less on weekends, but I can get anxious if I don’t at least have a finger on the pulse.
