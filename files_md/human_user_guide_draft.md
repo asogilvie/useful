@@ -82,11 +82,12 @@ Data stuff, various:
 
 ### What drives you nuts?
 - Inefficiency.
-- I don’t really have any ‘pet peeves’, though I won’t stand by if I see someone else being overlooked or put down.
+- I don’t really have any ‘pet peeves’, though I don't do well at standing by if I see someone else being overlooked or put down.
 
 ### People might misunderstand about me
 - If we’re in a call together, please be assured that my facial expression probably isn’t because of you or the topic. I’m not very good at being on camera and monitoring my face can be exhausting.
-- I’m introverted, but I’m neither shy nor quiet. If there’s something that ought to be said, I’ll say it. Public recognition is not a motivator.
+- I’m introverted, but I’m neither shy nor quiet. If there’s something that ought to be said, I’ll say it.
+- Public recognition is not a motivator.
 - I try to emoji/giphy a lot to soften the tone of my netspeak as I am occasionally direct. Plus there are some nifty slack-mojis out there and it’s good to make deliberate space for light-heartedness.
 ---
 
